@@ -1,5 +1,3 @@
-# school-registration-system👨‍🎓👩‍🎓
-
 # About
 
 **A console app that enables the user to perform CRUD operations (and more) on teachers and students.**
