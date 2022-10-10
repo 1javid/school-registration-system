@@ -11,7 +11,7 @@
 
 # Details
 
-> Data is savedmas object in "app.obj" file. <br />
+> Data is saved as object in "app.obj" file. <br />
 When user performs "read" operation, the program reads the saved data from "app.obj" file. <br />
 Updating and deleting data of students and teachers are also updated in "app.obj" file. <br />
 **NOTE:** If manual erros has been made, program will throw exception. User will need to delete "app.obj" file and start again.
